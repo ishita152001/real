@@ -10,7 +10,7 @@ const Header = () => {
     <header className='py-6 mb-12 border-b'>
       <div className='container mx-auto flex justify-between items-center'>
         <Link to='/'>
-          <img src={Logo} alt='' style={{height:"80px"}} />
+          <img src={Logo} alt='' style={{height:"80px",padding:"10px"}} />
         </Link>
         <div className='flex items-center gap-6'>
           <Link className='hover:blue-900 transition' to='/'>

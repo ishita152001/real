@@ -16,7 +16,7 @@ const Banner = () => {
             Hire your Dream House , achieve your dreams and get Great Deals with Us.
           </p>
         </div>
-        <div className='hidden flex-1 lg:flex ' style={{paddingRight:"100px",paddingBottom:"100px",width:"400px",marginLeft:"175px"}}>
+        <div className='hidden flex-1 lg:flex ' style={{paddingRight:"100px",paddingBottom:"100px",width:"400px",marginLeft:"200px"}}>
           <img src={Image} alt='' />
         </div>
       </div>
